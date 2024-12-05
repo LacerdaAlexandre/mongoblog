@@ -1,1 +1,11 @@
 # mongoblog
+- [ ] Implantar a arquitetura Spring Boot base
+- [ ] Implantar a classe Postagem
+- [ ] Implantar server, listener e repository de Postagem
+- [ ] Configurar o docker-compose MongoDB
+- [ ] Conectar aplicação com a pase Mongo
+- [ ] Realizar primeira persistência no banco MongoDB via Insomnia
+- [ ] Implementar Swagger
+- [ ] Implantar testes
+- [ ] Configurar Key
+- [ ] Configurar autenticação
